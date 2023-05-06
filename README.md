@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
 <h3 align="center">A passionate AQA Engineer</h3>
 
-- 🔭 I’m currently working at **Bizerba**
+- 🔭 I’m currently working at **FracturedByte**
 
 - 🌱 I’m currently learning **Java**
 
