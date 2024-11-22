@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
-<h3 align="center">A passionate AQA Engineer</h3>
+<h3 align="center">A passionate Build and Release Engineer</h3>
 
 - 🔭 I’m currently working at **FracturedByte**
-
-- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [http://linkedin.com/in/artur-lu/](http://linkedin.com/in/artur-lu/)
 
