@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
 <h3 align="center">A passionate Build and Release Engineer</h3>
 
-- 🔭 I’m currently working at **FracturedByte**
-
 - 👨‍💻 All of my projects are available at [http://linkedin.com/in/artur-lu/](http://linkedin.com/in/artur-lu/)
 
 - 💬 Ask me about **Testing methodologies, Automation, Quality Assurance**
 
-- 📫 How to reach me **artur.lu@yahoo.com**
+- 📫 How to reach me **artur.lu@yahoo.com** or **https://artur.f101.org**
 
 - 📄 Know about my experiences [http://linkedin.com/in/artur-lu/](http://linkedin.com/in/artur-lu/)
 
